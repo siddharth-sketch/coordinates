@@ -2,5 +2,13 @@
  {
    "Latitude": 26.9124,
    "Longitude": 75.7873
- }
+ },
+  {
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  {
+    "latitude": 13.0827,
+    "longitude": 80.2707
+  }
 ]
